@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635388088732",
+    "project_id": "rentastic-app",
+    "storage_bucket": "rentastic-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635388088732:android:260b26874d364054a23859",
+        "android_client_info": {
+          "package_name": "com.ex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GH76enNzJ4rXqCq1qG2CAIdnV2bCrt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635388088732:android:4cdb76b49316a9b9a23859",
+        "android_client_info": {
+          "package_name": "com.example.rentastic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GH76enNzJ4rXqCq1qG2CAIdnV2bCrt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

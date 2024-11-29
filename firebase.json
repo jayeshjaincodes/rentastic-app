@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"rentastic-app","appId":"1:635388088732:android:4cdb76b49316a9b9a23859","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"rentastic-app","configurations":{"android":"1:635388088732:android:4cdb76b49316a9b9a23859","ios":"1:635388088732:ios:16849ae50eae5f88a23859"}}}}}}
